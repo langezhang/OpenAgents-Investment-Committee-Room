@@ -1,4 +1,4 @@
-<img width="336" height="35" alt="image" src="https://github.com/user-attachments/assets/521f984a-f14b-4975-8545-25840d81ba73" /># Investment Committee Room
+# Investment Committee Room
 
 A multi-agent investment committee simulation featuring AI agents with distinct financial roles and analytical perspectives.
 
