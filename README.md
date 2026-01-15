@@ -1,4 +1,4 @@
-# Demo: Investment Committee Room
+# Investment Committee Room
 
 A multi-agent investment committee simulation featuring AI agents with distinct financial roles and analytical perspectives.
 
