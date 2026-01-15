@@ -1,4 +1,4 @@
-# Investment Committee Room
+<img width="336" height="35" alt="image" src="https://github.com/user-attachments/assets/521f984a-f14b-4975-8545-25840d81ba73" /># Investment Committee Room
 
 A multi-agent investment committee simulation featuring AI agents with distinct financial roles and analytical perspectives.
 
@@ -30,7 +30,7 @@ This setup demonstrates persona-driven collaboration on complex investment decis
 ### 1. Start the Network
 
 ```bash
-cd demos/investment_committee
+conda activate openagents
 openagents network start network.yaml
 ```
 ### 2. Launch the Agents
@@ -43,13 +43,10 @@ openagents agent start agents/risk_manager.yaml
 ### 3. Connect via Studio or CLI
 Using Studio:
 ```bash
-cd studio && npm start
+openagents studio -s
 # Connect to localhost:8700
 ```
-Or with CLI:
-```bash
-openagents connect --host localhost --port 8700
-```
+
 ### 4. Start the Discussion
 Post a human message to the channel (e.g., investment-room):
 
